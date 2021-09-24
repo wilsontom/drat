@@ -7,3 +7,13 @@ Suggests: covr, testthat (>= 3.0.0), mzR
 License: GPL (>= 3)
 MD5sum: a0a6abad06362241f1892a3e928f2c49
 NeedsCompilation: no
+
+Package: sRm
+Version: 0.2.2
+Depends: ggplot2, magrittr
+Imports: methods, mzR, tibble, purrr, dplyr, tidyr, xml2, xcms,
+        stringr, MsCoreUtils, ptw, cli, crayon, q3ML
+Suggests: testthat, knitr, rmarkdown, patchwork
+License: GPL (>= 3)
+MD5sum: 79497b924be8089c22579d9e74fbb25e
+NeedsCompilation: no
