@@ -1,0 +1,9 @@
+Package: q3ML
+Version: 0.1.0
+Depends: magrittr
+Imports: xml2, dplyr, tidyr, purrr, tibble, stringr, base64enc, crayon,
+        cli
+Suggests: covr, testthat (>= 3.0.0), mzR
+License: GPL (>= 3)
+MD5sum: a0a6abad06362241f1892a3e928f2c49
+NeedsCompilation: no
